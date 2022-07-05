@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T05:27:47.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.4" etag="stCY3ZC4C70WDe4zd6M9" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VpNc5swEP01PnYGEHbcY+PmY6ZOJjM+9KwgBdQK5BHCmPz6SkYyn8EkxglOmkvQYxHSe6vdlfAELMLtDYfr4I4hTCeOhbYT8HPiOLbjAPlPIVmOzNxpDvicIG1UACvyjDVoaTQhCMcVQ8EYFWRdBT0WRdgTFQxyztKq2ROj1beuoY8bwMqDtIn+JkgEOTp3Lgr8FhM/MG+2Z9/zOyE0xnomcQARS0sQuJqABWdM5FfhdoGpIs/wkj93/cLd/cA4jkSfB9D9Nrv/deFdzB+X6SZG+O52+s3Wo91AmugZP0h69YhFZmiIUxJSGMnWZSBCKkFbXnoBoWgJM5aoEcQCen9N65LjWIr5YIZn16A7qFzEUv0xTp5ZJCDVgOyHC+0JTtVipV6hzZrz15RsMBd4W4I0HzeYhVjwTJrs3VNrk9XaaSG1O9VYUJIZzDQItXv5+74LBeSFFuEVghjHKgnSEAMj6aK6ybgImM8iSK8K9JKzJEIYaaYKmyVjay3GHyxEplmGiWBVZRGMg93zqoEj9EMtJdmM2M4HJHJNKH1RiU5fi1nCPdzFgasXOuQ+7urRmeWGipBOvTmmUJBNdU0Prh2wP0KqkjoehXFMvIpA9ikEmvcUCFjjEmj6X6AaI+64BJp/FYFmfQUaPMTtHpXzhVnJYM1IJOJSzw8KKGXKeTVTArdWbNTsXavTXl7kIyhcZT+VI3Kn1cidS1WzOFYzMLcXNB2lx9tyXf9apK30AC2lx75GGb70mI6i9OjJ8L6sPrjUQN9qYlyx0Iy7Uw5K5UZI0Z4GRODVGu6oSOVe7ChS+7utW13nbosXtzixezIfdg+TVvXQA8Q9ycV/DUNC1QRvMd1gQTyob2gfth3dXjDK+O4lwNr9SRxS4kcqs0jmMT+lFPXdDGhqMW/R4mRbGdDHgc8pu/cOOYb5w9ndGVXIAc0E+mVWTz2Sffjqcc4h/O8PQsYS/+0Ga7oEbLI32hKw6zTqnUvC5vHgmYdwsxMYbINmttojCeFm3J8ghB99nPvRIdy4RqcWAQsfk/hT6eCMLSk0U6lOCuDskkIrme+bFMA4PlEMmBTM+A/W9X0/TAx/anecYp9nV2yW8pvr+pai6n3r+j4JevxJ4dU61HcKLcl5oKQgm8VX9fxsufhtArj6Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:54:14.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FqYIdS4U8ada9uiP-pu-" version="20.0.4" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-15" value="Release Scoping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-16" value="Prioritized List of RIs per business need" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;whiteSpace=wrap;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-15">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-17" value="Scope to fit per release timelines. Phase it as needed" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;whiteSpace=wrap;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-15">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-18" value="High level effort estimation" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-15">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-24" value="Requirements Phase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="274" y="61" width="140" height="120" as="geometry">
+            <mxRectangle x="274" y="60" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-25" value="Detailed Requirements" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-24">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-26" value="Technical Design Document" style="text;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-24">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-27" value="Technical Design Document Review and Sign off    " style="text;strokeColor=#10739e;fillColor=#b1ddf0;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;whiteSpace=wrap;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-24">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="251" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-42" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" connectable="0" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-28" value="&lt;h3 style=&quot;text-align: left;&quot;&gt;Development Phase&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-29" value="Development" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry x="7.941176470588232" y="54.333333333333314" width="63.52941176470588" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-30" value="UAT&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry x="100.26470588235293" y="53.333333333333314" width="63.52941176470588" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-35" value="Pre-Prod" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry x="190.58823529411762" y="52.333333333333314" width="63.52941176470588" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-37" value="GIT Branch&lt;br&gt;Code Mgmt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry x="12.647058823529392" y="108.66666666666669" width="63.52941176470588" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39" y="86" as="sourcePoint" />
+            <mxPoint x="39" y="107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-49" value="QA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry x="40" y="29" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-50" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="130.32999999999998" as="sourcePoint" />
+            <mxPoint x="130" y="80.32999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="129" />
+              <mxPoint x="130" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nic0GZ48rgvdws7EOfNs-51" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="Nic0GZ48rgvdws7EOfNs-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="129" as="sourcePoint" />
+            <mxPoint x="222" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
